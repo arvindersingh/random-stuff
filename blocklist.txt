@@ -233,6 +233,8 @@
 0.0.0.0 www.imgur.com
 0.0.0.0 indeed.com
 0.0.0.0 www.indeed.com
+0.0.0.0 independent.co.uk
+0.0.0.0 www.independent.co.uk
 0.0.0.0 insider.com
 0.0.0.0 www.insider.com
 0.0.0.0 instagram.com
@@ -416,6 +418,7 @@
 0.0.0.0 sfgate.com
 0.0.0.0 www.sfgate.com
 0.0.0.0 shein.com
+0.0.0.0 us.shein.com
 0.0.0.0 www.shein.com
 0.0.0.0 shop.app
 0.0.0.0 www.shop.app
