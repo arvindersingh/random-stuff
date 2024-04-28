@@ -282,3 +282,5 @@ yahoo.com
 yahoo.net
 zillow.com
 fliphtml5.com
+online.fliphtml5.com
+pinterest.com
