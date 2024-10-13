@@ -1390,10 +1390,6 @@
 :: whois.youtube.com
 0.0.0.0 wiki.youtube.com
 :: wiki.youtube.com
-0.0.0.0 wikimedia.org
-0.0.0.0 www.wikimedia.org
-:: wikimedia.org
-:: www.wikimedia.org
 0.0.0.0 windsorstore.com
 0.0.0.0 www.windsorstore.com
 :: windsorstore.com
