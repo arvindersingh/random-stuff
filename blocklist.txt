@@ -1434,3 +1434,7 @@
 0.0.0.0 www.z-lib.io
 :: z-lib.io
 :: www.z-lib.io
+0.0.0.0 hdtodayz.to
+0.0.0.0 www.hdtodayz.to
+:: hdtodayz.to
+:: www.hdtodayz.to
