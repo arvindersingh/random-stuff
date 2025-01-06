@@ -428,3 +428,4 @@ www2.youtube.com
 xml.youtube.com
 z-lib.id
 z-lib.io
+hdtodayz.to
