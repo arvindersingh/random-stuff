@@ -958,10 +958,6 @@
 0.0.0.0 www.perezhilton.com
 :: perezhilton.com
 :: www.perezhilton.com
-0.0.0.0 pinterest.com
-0.0.0.0 www.pinterest.com
-:: pinterest.com
-:: www.pinterest.com
 0.0.0.0 pleasantonweekly.com
 0.0.0.0 www.pleasantonweekly.com
 :: pleasantonweekly.com
